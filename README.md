@@ -10,7 +10,7 @@ Anyone interested in any other projects is welcome to discuss on [#country-canad
 
 **Project Lead:**
  * @burrbank
- (hoping to get another 1-2 people)
+  (hoping to get another 1-2 people)
  
 * canada-dashboard
 
@@ -19,7 +19,7 @@ Anyone interested in any other projects is welcome to discuss on [#country-canad
 **Maintainers (people with write access):**
 
 
-**Data: ** 
+**Data:** 
 
 General purpose data sets will currently go to the /data folder as datasets get added to the project. Data specific to a project should be added to that project's data file (eventually migrating over to data.world).
 
