@@ -9,15 +9,15 @@ Canada-Dashboard similar to the USA-Dashboard project and looking into the [MyDe
 Anyone interested in any other projects is welcome to discuss on [#country-canada](https://datafordemocracy.slack.com/messages/country-canada/)
 
 **Project Lead:**
-
+ * @burrbank
+ (hoping to get another 1-2 people)
+ 
 * canada-dashboard
 
     * TBD
 
 **Maintainers (people with write access):**
 
-* burrbank
-* (hoping to bring another 1-2 people on board with this)
 
 **Data: ** 
 
